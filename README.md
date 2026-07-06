@@ -1,4 +1,4 @@
-# Visualizador Universal de Datasets
+# Visualización de Puntajes de Ventas EMI ECUADOR S.A.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)
