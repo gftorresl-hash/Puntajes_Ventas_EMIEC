@@ -248,7 +248,3 @@ st.sidebar.json(st.session_state.users_db)
 
 """
 
-with open('app.py', 'w') as f:
-    f.write(file_content)
-
-!streamlit run app.py & npx localtunnel --port 8501
