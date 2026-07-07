@@ -73,7 +73,7 @@ def delete_user_st(username):
 # --- Diseño de la interfaz de usuario con Streamlit ---
 
 st.set_page_config(layout="centered", page_title="Sistema de Puntajes")
-st.title("🎮 Sistema de Gestión de Puntajes")
+st.title("Sistema de Gestión de Puntajes Equipo de Ventas EMIECUADOR")
 
 # --- Lógica de la aplicación ---
 
